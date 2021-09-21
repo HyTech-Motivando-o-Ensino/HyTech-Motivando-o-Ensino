@@ -12,4 +12,4 @@
 - Maria Clara da Silva Guimarães
 
 ## Sobre
-É uma plataforma para organizar e gerenciar as atividades trabalhadas dentro de um ambiente com ensino híbrido
+É uma plataforma para organizar e gerenciar as atividades trabalhadas dentro de um ambiente com ensino híbrido.
