@@ -1,4 +1,4 @@
-# HyTech-Motivando-o-Ensino
+# HyTech - Motivando o Ensino
 ## Integrantes
 - Jacquelin Barbosa Busch
 - Jeremias Oliveira da Silva
