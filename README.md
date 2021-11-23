@@ -1,8 +1,3 @@
-
-
-
-
-
 <h1 align="center">Hytech - Motivando o Ensino </h1>
 
 :question: Somos uma plataforma para organizar e gerenciar as atividades trabalhadas em um ambiente de ensino híbrido. 
@@ -20,10 +15,10 @@
 - Williams Ferreira Lima -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ferreirawilliams)](https://github.com/ferreirawilliams)
 - Pedro Henrique Araújo de Assis Bezerra -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PedroHenr1que)](https://github.com/PedroHenr1que)
 - Jorge Alexandre de Araújo -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jorgearaujo81)](https://github.com/jorgearaujo81)
-- Heloísa Moreira -> [Likedin]()
+- Heloísa Moreira -> [Likedin](https://www.linkedin.com/in/helo%C3%ADsa-moreira-81939a21a/)
 - Maria Vitória Cardoso -> [Likedin](https://www.linkedin.com/in/maria-vitoria-cardoso-230529203/)
 - Nicole Albuquerque Pereira -> [Likedin](https://www.linkedin.com/in/nicole-albuquerque-7b2942211/)
-- Maria Clara da Silva Guimarães -> [Likedin]()
+- Maria Clara da Silva Guimarães -> [Likedin](https://www.linkedin.com/in/clara-guimar%C3%A3es-88b2b9211)
 
 # Instalação
 > Para utilizar precisamos baixar algumas coisas! Veja abaixo o processo de instalações:
