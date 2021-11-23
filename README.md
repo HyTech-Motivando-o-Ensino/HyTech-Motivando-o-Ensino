@@ -29,7 +29,9 @@
 > Para utilizar precisamos baixar algumas coisas! Veja abaixo o processo de instalações:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyTech-Motivando-o-Ensino&repo=hytech-backend&theme=algolia)](https://github.com/HyTech-Motivando-o-Ensino/hytech-backend)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyTech-Motivando-o-Ensino&repo=hytech-frontend&theme=radical)](https://github.com/HyTech-Motivando-o-Ensino/hytech-frontend)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyTech-Motivando-o-Ensino&repo=admin-c&theme=gruvbox_light)](https://github.com/HyTech-Motivando-o-Ensino/admin-c)
 
 # Fluxo da aplicação  
