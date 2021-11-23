@@ -1,68 +1,38 @@
-# HyTech - Motivando o Ensino
-##### :question: Somos uma plataforma para organizar e gerenciar as atividades trabalhadas em um ambiente de ensino híbrido.
 
 
 
 
-## :busts_in_silhouette: Integrantes
-- Jacquelin Barbosa Busch
-- Jeremias Oliveira da Silva
-- Fábio Ramacciotti Krakauer
-- Williams Ferreira Lima
-- Pedro Henrique Araújo de Assis Bezerra
-- Jorge Alexandre de Araújo
-- Heloísa Moreira
-- Maria Vitória Cardoso
-- Nicole Albuquerque Pereira
-- Maria Clara da Silva Guimarães
 
-## :floppy_disk: Instalação
+<h1 align="center">Hytech - Motivando o Ensino </h1>
 
-> Para utilizar precisamos baixar algumas coisas.
-<!-- 
-- Python 3.8.3: https://www.python.org/downloads/
+:question: Somos uma plataforma para organizar e gerenciar as atividades trabalhadas em um ambiente de ensino híbrido. 
 
-- Após baixar e instalar o Python 3.8.3 devemos instalar o ambiente virtual projeto utiliza.
-  ```terminal
-  $ pip install pipenv
-  ```
- 
- - O Git precisa está instalado na máquina: https://git-scm.com/downloads
-	```terminal
-	$ git clone linkdesterepositorio
-	```
-	> Caso queira, pode baixar apenas o zip e extrai-lo.
-  
- - Após estar com o projeto clonado, acesse a raíz do projeto com seu terminal/prompt de comando e digite este comando:
-    ```
-    $ cd imgpercent
-    ```
- - É necessário baixar o arquivo yolov3.weight que pelo fato de ser um pouco grande não pode ser enviado para o Github. Baixe neste link: https://pjreddie.com/media/files/yolov3.weigths.
- 
- - O arquivo yolov3.weights deve ser colocado em: ./imgpercent/imgpercent/main/yolofiles/yoloDados/
- 
- 
- #### A primeira vez que executar o projeto o pipenv (ambiente virtual) deve instalar as dependencias caso já tenha feito o passo abaixo, pule esse.
- 
- - Instalando dependências do projeto:
- 
-    ```
-    $ pipenv install
-    ```
-- Agora podemos colocar nosso servidor local no ar:
+*Rodapé:*
+- [Integrantes](#integrantes)
+- [Instalação](#instalação)
+- [Fluxo da aplicação](#fluxo-da-aplicação)
+- [Funcionalidades](#funcionalidades)
 
-    ```
-    $ pipenv run python manage.py runserver
-    ```
-    
-- Assim que aparecer no seu terminal este link: "127.0.0.1:8000/" quer dizer que já pode ser acessado.
+# Integrantes
+- Jacquelin Barbosa Busch -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JacquelinBB)](https://github.com/JacquelinBB)
+- Jeremias Oliveira da Silva -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jeremias333)](https://github.com/Jeremias333)
+- Fábio Ramacciotti Krakauer -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FabioKrakauer)](https://github.com/FabioKrakauer)
+- Williams Ferreira Lima -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ferreirawilliams)](https://github.com/ferreirawilliams)
+- Pedro Henrique Araújo de Assis Bezerra -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PedroHenr1que)](https://github.com/PedroHenr1que)
+- Jorge Alexandre de Araújo -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jorgearaujo81)](https://github.com/jorgearaujo81)
+- Heloísa Moreira -> [Likedin]()
+- Maria Vitória Cardoso -> [Likedin](https://www.linkedin.com/in/maria-vitoria-cardoso-230529203/)
+- Nicole Albuquerque Pereira -> [Likedin](https://www.linkedin.com/in/nicole-albuquerque-7b2942211/)
+- Maria Clara da Silva Guimarães -> [Likedin]()
 
-- Abra seu navegador e acesse o seguinte link: 127.0.0.1:8000
+# Instalação
+> Para utilizar precisamos baixar algumas coisas! Veja abaixo o processo de instalações:
 
-- Pronto, aproveite o site. -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyTech-Motivando-o-Ensino&repo=hytech-backend&theme=algolia)](https://github.com/HyTech-Motivando-o-Ensino/hytech-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyTech-Motivando-o-Ensino&repo=hytech-frontend&theme=radical)](https://github.com/HyTech-Motivando-o-Ensino/hytech-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyTech-Motivando-o-Ensino&repo=admin-c&theme=gruvbox_light)](https://github.com/HyTech-Motivando-o-Ensino/admin-c)
 
-## :hourglass_flowing_sand: Fluxo da aplicação  
-
+# Fluxo da aplicação  
 > Página principal > Outro fluxo > Outro fluxo > Outro fluxo > Outro fluxo;
 
 - Página principal:
@@ -92,8 +62,7 @@
   > Existe algumas informações sobre o autor e a aplicação. -->
   
   
-#### Funcionalidades: :chart_with_upwards_trend:
-
+# Funcionalidades:
 > Descrição das funcionalidades da aplicação.
 
 <!-- > Deixei algumas responsabilidades no front-end, como um required na tag de imagem para evitar submissão de nenhum arquivo, ou até mesmo só habilitar botão de envio pós imagem ser selecionada.
@@ -107,9 +76,7 @@
 
 #### Bibliotecas, Frameworks e APIs: :file_cabinet:
 - Python 3.8.3 - https://docs.python.org/3.8/
-
-<!-- - Django - https://docs.djangoproject.com/en/3.0/
+- Django - https://docs.djangoproject.com/en/3.0/
 - Bootstrap4 - https://getbootstrap.com/docs/4.5/getting-started/introduction/
-
 - OpenCV - https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
 - Yolov3 - https://pjreddie.com/darknet/yolo/ -->
